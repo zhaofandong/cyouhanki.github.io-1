@@ -5,7 +5,7 @@ export default sidebar([
   "/DailyRoutine",
   "/Fitness",
   "/Read",
-  {
+ /* {
     text: "🚀 代码",
     icon: "",
     prefix: "/code/",
@@ -74,7 +74,7 @@ export default sidebar([
     link: "",
     collapsible: true,
     children: "structure",
-  },
+  },*/
   {
     text: "博客文章",
     icon: "blog",
